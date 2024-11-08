@@ -3,7 +3,7 @@ Compute Engineering Student✨
 Passionate about exploring new fields in tech, currently diving into AI with a focus on medical image processing. 
 Always eager to learn and innovate!
 
-How to reach me **niloofarmortazavi1382@gmail.com**
+How to reach me: **niloofarmortazavi1382@gmail.com**
 
 My resume: [RESUME](https://drive.google.com/file/d/1ETEy6bz7JVZHsBpW6nEsDOIorPoindPH/view?usp=sharing)
 
@@ -12,6 +12,7 @@ My resume: [RESUME](https://drive.google.com/file/d/1ETEy6bz7JVZHsBpW6nEsDOIorPo
 <a href="https://www.linkedin.com/in/niloufar-mortazavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niloufar-mortazavi/" height="30" width="40" /></a>
 </p>
 <p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theniloufar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theniloufar&layout=compact&theme=radical)
 </p>
 
