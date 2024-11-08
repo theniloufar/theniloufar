@@ -11,7 +11,6 @@ My resume: [RESUME](https://drive.google.com/file/d/1ETEy6bz7JVZHsBpW6nEsDOIorPo
 <p align="left">
 <a href="https://www.linkedin.com/in/niloufar-mortazavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niloufar-mortazavi/" height="30" width="40" /></a>
 </p>
+<p>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theniloufar&layout=compact&theme=radical)</p>
 
-<p><img align="center" src="https://github.com/theniloufar/github-readme-stats" alt="theniloufar" /></p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theniloufar&layout=compact&theme=radical)
 
