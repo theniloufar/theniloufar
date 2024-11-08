@@ -10,8 +10,6 @@ My resume: [RESUME](https://drive.google.com/file/d/1ETEy6bz7JVZHsBpW6nEsDOIorPo
 <h3 align="left">contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/niloufar-mortazavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niloufar-mortazavi/" height="30" width="40" /></a>
-<a href="mailto:niloofarmortazavi1382@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mailto:niloofarmortazavi1382@gmail.com" height="30" width="40" /></a>
-<a href="mailto:niloofarmortazavi@ut.ac.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mailto:niloofarmortazavi@ut.ac.ir" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github.com/anuraghazra/github-readme-stats" alt="theniloufar" /></p>
