@@ -13,8 +13,5 @@ My resume: [RESUME](https://drive.google.com/file/d/1ETEy6bz7JVZHsBpW6nEsDOIorPo
 </p>
 
 <p><img align="center" src="https://github.com/theniloufar/github-readme-stats" alt="theniloufar" /></p>
-
-
-![Niloufar's GitHub stats](https://github-readme-stats.vercel.app/api?username=theniloufar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theniloufar&layout=compact&theme=radical)
 
