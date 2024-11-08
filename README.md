@@ -1,16 +1,17 @@
-## Hi there 👋
+Compute Engineering Student✨
 
-<!--
-**theniloufar/theniloufar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about exploring new fields in tech, currently diving into AI with a focus on medical image processing. 
+Always eager to learn and innovate!
 
-Here are some ideas to get you started:
+How to reach me **niloofarmortazavi1382@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My resume: [RESUME](https://drive.google.com/file/d/1ETEy6bz7JVZHsBpW6nEsDOIorPoindPH/view?usp=sharing)
+
+<h3 align="left">contact me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/niloufar-mortazavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niloufar-mortazavi/" height="30" width="40" /></a>
+<a href="mailto:niloofarmortazavi1382@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mailto:niloofarmortazavi1382@gmail.com" height="30" width="40" /></a>
+<a href="mailto:niloofarmortazavi@ut.ac.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mailto:niloofarmortazavi@ut.ac.ir" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github.com/anuraghazra/github-readme-stats" alt="theniloufar" /></p>
