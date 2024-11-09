@@ -1,8 +1,6 @@
 Compute Engineering Student✨
 
-Passionate about exploring new fields in tech, currently diving into AI with a focus on medical image processing. 
-
-Always eager to learn and innovate!
+Passionate about exploring new fields in techو Always eager to learn and innovate!
 
 Reach me via: **niloofarmortazavi1382@gmail.com**
 
