@@ -1,4 +1,3 @@
-About Me:
 Computer Engineering Student✨<br>Passionate about exploring new fields in tech, Always eager to learn and innovate!
 
 
